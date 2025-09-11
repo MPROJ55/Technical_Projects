@@ -1,2 +1,2 @@
 # Technical_Projects
-Home lab automations and testing
+Home lab automation and testing
