@@ -1,2 +1,2 @@
 # Technical_Projects
-Home lab automation,testing, ai agents, and security
+Home lab work, automation, testing, networking tasks, and ai agents
