@@ -1,4 +1,3 @@
----------------------------commands----------------------------
 sudo apt update && sudo apt upgrade -y
 sudo apt install net-tools curl vim htop ufw -y
 sudo ufw allow OpenSSH
